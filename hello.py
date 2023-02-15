@@ -4,3 +4,4 @@ print("Hello")
 input("What's your name ? ")
 #prints the welcoming message
 print ("Hello , input, welcome here!")
+print("last stodryt")
